@@ -130,14 +130,3 @@ src/
 ## Health Check
 
 GET `/health` - Returns service status
-
-## Features
-
-- ✅ No regex parsing implementation
-- ✅ Strict syntax validation
-- ✅ Comprehensive error handling
-- ✅ Support for GET and POST methods
-- ✅ Query parameter handling
-- ✅ Request/response timing
-- ✅ Proper JSON validation
-- ✅ CORS enabled
