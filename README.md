@@ -109,13 +109,6 @@ The parser provides specific error messages for various syntax violations:
 - "Missing space after keyword"
 - "Multiple spaces found where single space expected"
 
-## Testing
-
-Run the test examples:
-```bash
-node test-examples.js
-```
-
 ## Project Structure
 
 ```
